@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Task1": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "OUTPUT_PATH": "Output.txt"
+      }
+    }
+  }
+}
